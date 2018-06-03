@@ -10,7 +10,7 @@ let axios = require("axios");
 export default {
   name: 'HelloWorld',
   created: function() {
-    axios.get("/proxy/comments/").then(function(r) {
+    axios.get("/proxy/comments").then(function(r) {
       console.log(r);
     })
   }
