@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>Perepelki live stream</h1>
-    <img src="/main.mjpg"></img>
+    <img src="/main.mjpg" width="800" height="600"></img>
   </div>
 </template>
 
