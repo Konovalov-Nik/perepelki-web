@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>Perepelki live stream</h1>
+    <img src="/main.mjpg"></img>
   </div>
 </template>
 
