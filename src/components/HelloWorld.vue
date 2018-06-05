@@ -34,4 +34,8 @@ li {
 a {
   color: #42b983;
 }
+img {
+   display:block;
+   margin:auto;
+}
 </style>
