@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>Perepelki live stream</h1>
-    <iframe width="800" height="600" src="https://https://www.youtube.com/embed/live_stream?channel=UCUIWs8nl7RvXC-0gaO34jBQ" allowfullscreen></iframe>
+    <iframe width="800" height="600" src="https://www.youtube.com/embed/live_stream?channel=UCUIWs8nl7RvXC-0gaO34jBQ&autoplay=1" frameborder="0" allowfullscreen></iframe>
   </div>
 </template>
 
